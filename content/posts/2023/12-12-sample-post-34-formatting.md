@@ -1,4 +1,4 @@
----
+[---
 title: Sample post number 34 (general formatting + custom image)
 description: Post description that will be visible in HTML meta description.
 date: 2023-12-12
@@ -62,3 +62,4 @@ int main() {
 <kbd>Some keyboard shortcout</kbd> maximus auctor fermentum. Morbi `some inline code`. Pellentesque congue venenatis elit. Quisque semper convallis orci eu condimentum. Duis nec consectetur nulla, vitae aliquam tortor. Aenean fringilla, arcu vel euismod consequat, risus quam finibus purus, vitae ultricies mauris enim eget orci. Cras ac hendrerit orci, in aliquet quam. Etiam mollis porta ante et molestie. Donec hendrerit justo at molestie faucibus. Morbi commodo porta orci ullamcorper pellentesque. Donec et malesuada tortor. Aliquam dapibus eu mi eget varius. Integer feugiat odio orci, sed lacinia ipsum malesuada non. Pellentesque aliquet pellentesque tortor. Nam vel dictum dui. Vivamus vitae diam egestas, hendrerit massa sed, molestie nulla.
 
 [^1]: This is a footnote.
+](https://github.com/namaskar-1f650/thoughts/edit/main/content/posts/2023/12-12-sample-post-34-formatting.md)https://github.com/namaskar-1f650/thoughts/edit/main/content/posts/2023/12-12-sample-post-34-formatting.md
