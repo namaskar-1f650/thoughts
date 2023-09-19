@@ -1,6 +1,6 @@
-[---
-title: Sample post number 34 (general formatting + custom image)
-description: Post description that will be visible in HTML meta description.
+---
+title: Hello IPFS Blog!
+description: An automatic build from a GitHub Commit.
 date: 2023-12-12
 tags:
   - hello world
@@ -16,7 +16,7 @@ image:
     url: https://www.pexels.com/photo/cute-gray-kitten-standing-on-a-wooden-flooring-774731/
 ---
 
-This is the first paragraph of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacus magna, lobortis sit amet mauris sed, fringilla scelerisque risus. Suspendisse sem nibh, pretium id ante sed, porttitor malesuada nibh. Vivamus pretium nunc nec pretium placerat.
+I hope this tutorial was fun for you to read. If you have any feedback on the app or questions, reach out to us! Best way would be the little button in the bottom right of our app. 🙏🌱🫶
 
 **This is the second paragraph of this post.** Nunc placerat suscipit ante, _eleifend finibus turpis pellentesque ac_. Suspendisse quam arcu, maximus varius bibendum at, gravida sed ante. Ut non interdum elit, sed fringilla orci. Phasellus at venenatis felis. Morbi vel sapien eget est tristique egestas ac at neque. In sollicitudin viverra porta. Morbi vitae nisl non arcu eleifend sollicitudin.
 
@@ -62,4 +62,3 @@ int main() {
 <kbd>Some keyboard shortcout</kbd> maximus auctor fermentum. Morbi `some inline code`. Pellentesque congue venenatis elit. Quisque semper convallis orci eu condimentum. Duis nec consectetur nulla, vitae aliquam tortor. Aenean fringilla, arcu vel euismod consequat, risus quam finibus purus, vitae ultricies mauris enim eget orci. Cras ac hendrerit orci, in aliquet quam. Etiam mollis porta ante et molestie. Donec hendrerit justo at molestie faucibus. Morbi commodo porta orci ullamcorper pellentesque. Donec et malesuada tortor. Aliquam dapibus eu mi eget varius. Integer feugiat odio orci, sed lacinia ipsum malesuada non. Pellentesque aliquet pellentesque tortor. Nam vel dictum dui. Vivamus vitae diam egestas, hendrerit massa sed, molestie nulla.
 
 [^1]: This is a footnote.
-](https://github.com/namaskar-1f650/thoughts/edit/main/content/posts/2023/12-12-sample-post-34-formatting.md)https://github.com/namaskar-1f650/thoughts/edit/main/content/posts/2023/12-12-sample-post-34-formatting.md
